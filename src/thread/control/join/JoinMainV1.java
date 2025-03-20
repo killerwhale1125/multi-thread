@@ -16,7 +16,7 @@ public class JoinMainV1 {
 
         log("task1.result = " + task1.result);
         log("task2.result = " + task2.result);
-        log("sum : " + task1.result + task2.result);
+        log("sum : " + (task1.result + task2.result));
         log("end");
     }
 
